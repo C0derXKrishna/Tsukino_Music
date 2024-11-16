@@ -5,7 +5,7 @@ from pyrogram.enums import ChatType, ChatMemberStatus
 from pyrogram.errors import UserNotParticipant
 from pyrogram.types import ChatPermissions
 from Tsukino_Music import app
-from Tsukino_Music.utils.branded_ban import admin_filter
+from Tsukino_Music.utils.tsukino_ban import admin_filter
 
 
 SPAM_CHATS = []
