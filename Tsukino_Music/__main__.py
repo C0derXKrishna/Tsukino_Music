@@ -59,7 +59,7 @@ async def init():
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("Tsukino_Music").info("Stopping Brandrd Music Bot...")
+    LOGGER("Tsukino_Music").info("Stopping Tsukino Music Bot...")
 
 
 if __name__ == "__main__":
